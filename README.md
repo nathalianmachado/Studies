@@ -1,2 +1,2 @@
-# new-bie
-  Just  another respository of an excited new-bie
+# Studies
+  Just  another respository of an excited new-bie 
